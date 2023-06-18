@@ -1,1 +1,2 @@
-# weather
+# login:domil
+# pswd: admin
