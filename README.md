@@ -1,2 +1,2 @@
-# login:domil
+# login:domik
 # pswd: admin
